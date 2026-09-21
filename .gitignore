@@ -1,0 +1,10 @@
+__pycache__/
+.venv/
+build/
+dist/
+*.spec
+*.xls
+*.xlsx
+*.ics
+*.csv
+我的*.json
